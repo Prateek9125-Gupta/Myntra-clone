@@ -10,3 +10,7 @@ A Myntra Clone built using HTML and CSS, replicating the look and feel of the po
 . HTML5 – For structuring the content
 . CSS3 – For styling and layout
 . Flexbox & Grid – For responsive design
+🚀 How to Run the Project
+1 Clone the repo:
+git clone https://github.com/your-username/myntra-clone.git
+2 Open index.html in your browser.
