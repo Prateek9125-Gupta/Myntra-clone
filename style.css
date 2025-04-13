@@ -142,3 +142,25 @@ header{
     text-align: end;
     padding: 15px;
 }
+/* Highlight clicked nav item */
+.active-nav {
+    border-bottom: 4px solid #ff3f6c !important;
+}
+
+/* Hover effect for category images */
+.sales_items {
+    width: 250px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.sales_items:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Make footer links slightly interactive */
+.footer_column a:hover {
+    color: #ff3f6c;
+    text-decoration: underline;
+}
+
